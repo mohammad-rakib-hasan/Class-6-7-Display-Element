@@ -1,0 +1,13 @@
+====display Element====
+ Inlinr (take only required space)
+ Block (Take 100% space from left to right)
+
+
+
+
+ javascript
+
+ <section></section>
+ <div></div>
+ <style></style>
+ <script></script>
